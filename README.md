@@ -1,4 +1,7 @@
 **Log Element as Completed**
+Dependencies:
+npm install express mongoose body-parser dotenv
+
 1. Requesting data from the microservice
    - The requests are made using Axios HTTP method POST
    - The endpoint is http://localhost:5000/api/log
