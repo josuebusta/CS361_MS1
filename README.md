@@ -45,3 +45,5 @@ const BASE_URL = http://localhost:5000/api;
   console.error("Error:", error.response?.data || error.message);
   }
 })();
+
+![Sequence diagram](https://github.com/user-attachments/assets/c2f5791f-0567-4a00-9825-cc8c28f5070f)
